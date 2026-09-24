@@ -17,3 +17,6 @@ Se busca reorganizar la información entregada para que sea de comprensión ráp
 - Salida: Se tiene el grafico final del ensayo de compresión y el informe del mismo.
 - Herramientas utilizadas: Excel, Github
 - Unidades/Supuestos: Se hizo el supuesto de que las medidas D y H estaban en milímetros. El grafico no presenta unidades.
+
+# Uso de IA
+En esta actividad declaro haber utilizado el asistente Gemini, para poder crear las carpetas en github web paso a paso.
